@@ -22,7 +22,7 @@
     "crypto-js": "3.1.8",
     "express": "4.15.2",
     "express-session": "^1.14.2",
-    "fh-mbaas-api": "6.1.8",
+    "fh-mbaas-api": "feedhenry/fh-mbaas-api#e52b2ddb8ec136d6076907e470d3410231a4ea54",
     "fh-wfm-mediator": "grdryn/raincatcher-mediator#try-longer-timeout",
     "fh-wfm-simple-store": "grdryn/raincatcher-simple-store#try-longer-timout",
     "lodash": "4.7.0",
